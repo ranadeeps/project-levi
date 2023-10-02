@@ -1,0 +1,8 @@
+.container{
+    margin: 2%;
+    background-color: burlywood;
+    width: max-content;
+    padding: 2%;
+    margin-left: auto;
+    border-radius: 25%;
+}

@@ -1,0 +1,16 @@
+.container{
+    width: 400px;
+    height: 70vh;
+    background-color: rgb(131, 169, 170);
+    padding: 2%;
+    margin: auto;
+    margin-bottom: 1%;
+    margin-top: 2%;
+    box-shadow: 3px 3px 3px 3px rgb(143, 119, 119);
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+}
+.inp{
+    width: 400px;
+}
